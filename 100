@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20171027035326_add_health_to_pokemons.rb
